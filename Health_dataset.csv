@@ -1,0 +1,11 @@
+symptom,possible_condition,recommended_action
+headache,"Migraine, dehydration, stress","Rest, drink water, take pain reliever if needed"
+fever,"Flu, infection, heat exhaustion","Stay hydrated, take fever reducer, consult doctor if persistent"
+cough,"Common cold, flu, allergies","Drink fluids, rest, use cough medicine if needed"
+sore throat,"Viral infection, strep throat","Gargle warm salt water, rest, consult doctor if severe"
+stomach pain,"Indigestion, ulcer, gastritis","Eat light meals, avoid spicy food, consult doctor if persistent"
+fatigue,"Anemia, lack of sleep, chronic fatigue syndrome","Get enough sleep, eat balanced diet, consult doctor if chronic"
+overweight,"Obesity, poor diet, lack of exercise","Exercise regularly, eat healthy, consult nutritionist or doctor"
+shortness of breath,"Asthma, lung infection, anxiety","Use inhaler if prescribed, avoid triggers, consult doctor if severe"
+chest pain,"Heart disease, muscle strain, acid reflux","Seek emergency care if severe, otherwise consult doctor"
+back pain,"Muscle strain, poor posture, slipped disc","Stretch, maintain good posture, use pain relief if needed"
